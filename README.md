@@ -1,1 +1,1 @@
-# Minesweeper
+# A simple game of Minesweeper
