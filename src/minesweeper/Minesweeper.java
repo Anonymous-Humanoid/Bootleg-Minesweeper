@@ -1,7 +1,7 @@
 /**
  * Date: April 2, 2021
  * Description: The game of Minesweeper
- * @author Matt
+ * @author matt
  * 
  */
 
